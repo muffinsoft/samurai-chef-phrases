@@ -1,0 +1,218 @@
+{
+  "fallbackPhrase": [
+    {
+      "content": "Sorry, I don't understand what you're saying. Would you like some help?"
+    }
+  ],
+  "failurePhrase": [
+    {
+      "content": "You gave the wrong response, which means you failed the challenge. Would you like to restart?"
+    }
+  ],
+  "failureRePromptPhrase": [
+    {
+      "content": "Sorry, I don't understand what you're saying. Would you like to try again?"
+    }
+  ],
+  "wonRePromptPhrase": [
+    {
+      "content": "Sorry, I don't understand what you're saying. Are you ready to start?"
+    }
+  ],
+  "readyToStartPhrase": [
+    {
+      "content": "Ready to start?"
+    }
+  ],
+  "readyToStartRePromptPhrase": [
+    {
+      "content": "Sorry, I don't hear you. Ready to start?"
+    }
+  ],
+  "justEarnCorrectQuestionPhrase": [
+    {
+      "content": "Wow, you got some Secret Sauce! When you use it, Sensei will accept any answer as correct!",
+      "role": "Kiara"
+    }
+  ],
+  "justUseCorrectQuestionPhrase": [
+    {
+      "content": "Sweet! With the Secret Sauce your answer was considered right, no matter what you said!",
+      "role": "Kiara"
+    }
+  ],
+  "justEarnSecondChancePhrase": [
+    {
+      "content": "Nice, you earned a Super Spatula! With it you'll get a second chance the first time you give a wrong answer.",
+      "role": "Kiara"
+    }
+  ],
+  "justUseSecondChancePhrase": [
+    {
+      "content": "Good idea using the Super Spatula to get a second chance at responding!",
+      "role": "Kiara"
+    }
+  ],
+  "twoMistakesLeftPhrase": [
+    {
+      "content": "Oops, you made a mistake! You can only make two more mistakes!"
+    }
+  ],
+  "oneMistakeLeftPhrase": [
+    {
+      "content": "Hmm! That was your second mistake! Since you first to give two wrong responses, Kiara wins challenge!",
+      "role": "Sensei"
+    },
+    {
+      "content": "Oh yeah! Better luck next time!",
+      "role": "Kiara"
+    }
+  ],
+  "lastMistakePhrase": [
+    {
+      "content": "Aww, that was your third mistake! Too bad..."
+    }
+  ],
+  "oneMistakeLeftCompetitionPhrase": [
+    {
+      "content": "Kiara wins round! One more and she will be the victor!",
+      "role": "Sensei"
+    }
+  ],
+  "lastMistakeCompetitionPhrase": [
+    {
+      "content": "wins again! Kiara is the winner!",
+      "role": "Kiara "
+    }
+  ],
+  "selectMissionPhrase": [
+    {
+      "content": "Sensei is ready to train you in the Path of Chef, Path of Sumo, or Path of Guru. Which one would you like?"
+    }
+  ],
+  "selectMissionToRemovePhrase": [
+    {
+      "content": "Sensei is ready to train you in the Path of Chef, Path of Sumo, or Path of Guru. Enter the path before remove it?"
+    }
+  ],
+  "selectMissionUnknownPhrase": [
+    {
+      "content": "I don't understand your choice, Please, select one of three available missions."
+    }
+  ],
+  "readyToContinueMissionPhrase": [
+    {
+      "content": "Would you like to continue playing"
+    }
+  ],
+  "missionAlreadyCompletePhrase": [
+    {
+      "content": "You have already complete this path."
+    }
+  ],
+  "readyToStartMissionPhrase": [
+    {
+      "content": "Are you ready to start?"
+    }
+  ],
+  "severalValuesPhrase": [
+    {
+      "content": "Sorry, we can't understand your answer. Please, choose one from this list "
+    }
+  ],
+  "wantStartMissionPhrase": [
+    {
+      "content": "Do you want to start a new path?"
+    }
+  ],
+  "wantExitPhrase": [
+    {
+      "content": "Do you want to quit the game?"
+    }
+  ],
+  "repeatLastPhrase": [
+    {
+      "content": "I don't understand you. Please, repeat last command."
+    }
+  ],
+  "tryAgainPhrase": [
+    {
+      "content": "Try again!"
+    }
+  ],
+  "returnToGamePhrase": [
+    {
+      "content": "You'll be returned to game process."
+    }
+  ],
+  "wantResetProgressPhrase": [
+    {
+      "content": "Are you sure you want to quit the path and lose all your progress?"
+    }
+  ],
+  "wantMissionFromBeginningPhrase": [
+    {
+      "content": "Do you want to start the path from the beginning?"
+    }
+  ],
+  "newMissionOrSelectPhrase": [
+    {
+      "content": "Do you want to chose another path?"
+    }
+  ],
+  "gameFinishedPhrasePhrase": [
+    {
+      "content": "Congratulations! You are the winner!"
+    }
+  ],
+  "redirectedToSelectMissionPhrase": [
+    {
+      "content": "You will be redirected to path selection."
+    }
+  ],
+  "perfectActivityEarnLowPhrase": [
+    {
+      "content": "That was a perfect challenge! You earned a new title - Skilled Chef!"
+    }
+  ],
+  "perfectStripeEarnLowPhrase": [
+    {
+      "content": "You earned that belt without messing up once! You get a new title - Pro Chef!"
+    }
+  ],
+  "perfectMissionEarnLowPhrase": [
+    {
+      "content": "A perfect path of the chef? Incredible! You get the best  title - The Unmatched Chef!"
+    }
+  ],
+  "perfectActivityEarnMidPhrase": [
+    {
+      "content": "A challenge with no mistakes! You earned a new title - Giant Sumo!"
+    }
+  ],
+  "perfectStripeEarnMidPhrase": [
+    {
+      "content": "Hey, did you get that belt without a single wrong response? Wow! You get a new title - Enormous Sumo!"
+    }
+  ],
+  "perfectMissionEarnMidPhrase": [
+    {
+      "content": "Unbelievable! A perfect Path of the Sumo! You get the best title - The Humongous Sumo!"
+    }
+  ],
+  "perfectActivityEarnHighPhrase": [
+    {
+      "content": "Nice! No mistakes that challenge! You get a new title - Wise Guru!"
+    }
+  ],
+  "perfectStripeEarnHighPhrase": [
+    {
+      "content": "No way! A perfect belt! You get a new title - Sage Guru!"
+    }
+  ],
+  "perfectMissionEarnHighPhrase": [
+    {
+      "content": "Impossible! A perfect Path of the Guru! You get the best title - The Enlightened Guru!"
+    }
+  ]
+}
