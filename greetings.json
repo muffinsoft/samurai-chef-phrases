@@ -69,7 +69,7 @@
       "audio": null
     },
     {
-      "content": "%titles%. You have %low_color% belt Chef, %mid_color% belt Sumo, %high_color% belt Guru",
+      "content": "%titles%. You have %low_color% belt Chef, %mid_color% belt Sumo, %high_color% belt Guru.",
       "role": "Alexa",
       "audio": null
     }
