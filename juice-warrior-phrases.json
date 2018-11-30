@@ -10,6 +10,10 @@
       ],
       "intro": [
         {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/chefTransition.mp3"
+        },
+        {
           "content": "Big order just came in! Need lots of seaweed, and fast! I give you no more than 5 seconds to prepare item.",
           "role": "Sensei",
           "audio": null
@@ -107,6 +111,10 @@
       ],
       "intro": [
         {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/chefTransition.mp3"
+        },
+        {
           "content": "You will now also taste mochi ice cream! Hope you've got a sweet tooth! For this challenge you'll have 5 seconds to answer!",
           "role": "Sensei",
           "audio": null
@@ -139,6 +147,10 @@
         }
       ],
       "intro": [
+        {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/sumoTransition.mp3"
+        },
         {
           "content": "Now I also cook you stew! Loaded with vitamins and good for stomach! You have only 5 seconds to taste correctly!",
           "role": "Sensei",
@@ -222,6 +234,10 @@
       ],
       "intro": [
         {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/sumoTransition.mp3"
+        },
+        {
           "content": "Now we add candy too! Not healthy! Also give cavities! You have only 5 seconds to respond.",
           "role": "Sensei",
           "audio": null
@@ -264,6 +280,10 @@
         }
       ],
       "intro": [
+        {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/guruTransition.mp3"
+        },
         {
           "content": "Customers want refreshing drink so we add ice! Let's be quick! Have ingredients ready in less than 5 seconds!",
           "role": "Sensei",
@@ -346,6 +366,10 @@
         }
       ],
       "intro": [
+        {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/guruTransition.mp3"
+        },
         {
           "content": "Now I also show respect! Very important in martial arts and life in general! Guru must react swiftly! Only 5 seconds to respond now!",
           "role": "Sensei",

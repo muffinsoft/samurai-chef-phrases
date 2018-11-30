@@ -20,6 +20,10 @@
       ],
       "intro": [
         {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/chefTransition.mp3"
+        },
+        {
           "content": "Customers enjoy sushi so far but want more protein, so we add boiled egg! This will be competition round for you and Ben! Need best sushi maker to step up!",
           "role": "Sensei",
           "audio": null
@@ -197,6 +201,10 @@
       ],
       "intro": [
         {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/chefTransition.mp3"
+        },
+        {
           "content": "Wasabe peas are your next dish to taste. Strong in flavor! Time to prove yourself! You and Ben compete to see who tastes faster!",
           "role": "Sensei",
           "audio": null
@@ -239,6 +247,10 @@
         }
       ],
       "intro": [
+        {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/sumoTransition.mp3"
+        },
         {
           "content": "Now I also make fried fish! Taste good and loaded with fatty acids! I'm on fire! Cooking fast! Competition time to see who become better sumo!",
           "role": "Sensei",
@@ -352,6 +364,10 @@
       ],
       "intro": [
         {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/sumoTransition.mp3"
+        },
+        {
           "content": "I now add milk! Milk is good for sumo bones! Let's see who has greater discipline! Competition time between you and Ben!",
           "role": "Sensei",
           "audio": null
@@ -404,6 +420,10 @@
         }
       ],
       "intro": [
+        {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/guruTransition.mp3"
+        },
         {
           "content": "Customers want more delicious juices so so I give you ingredients fast. If I accidentally throw you chopsticks, don't add! I want you and Ben to compete! Good way to see who better juice maker!",
           "role": "Sensei",
@@ -506,6 +526,10 @@
         }
       ],
       "intro": [
+        {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/guruTransition.mp3"
+        },
         {
           "content": "You are impressing me! Now I also grab! Good technique! You and Ben will compete! I see who better at karate!",
           "role": "Sensei",

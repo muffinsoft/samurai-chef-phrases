@@ -10,6 +10,10 @@
       ],
       "intro": [
         {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/chefTransition.mp3"
+        },
+        {
           "content": "You show potential as sushi cook! Now we work both mind and body with word board karate!",
           "role": "Sensei",
           "audio": null
@@ -97,6 +101,10 @@
       ],
       "intro": [
         {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/chefTransition.mp3"
+        },
+        {
           "content": "Good session. Best way to end tasting is with word board karate!",
           "role": "Sensei",
           "audio": null
@@ -154,6 +162,10 @@
         }
       ],
       "intro": [
+        {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/sumoTransition.mp3"
+        },
         {
           "content": "Your appetite is impressive! Time for word board karate to make use of that energy!",
           "role": "Sensei",
@@ -242,6 +254,10 @@
       ],
       "intro": [
         {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/sumoTransition.mp3"
+        },
+        {
           "content": "You show good ability to avoid unhealthy snacks. Time for some word board karate!",
           "role": "Sensei",
           "audio": null
@@ -299,6 +315,10 @@
         }
       ],
       "intro": [
+        {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/guruTransition.mp3"
+        },
         {
           "content": "You on path to becoming juice making machine! Time for some word board karate!",
           "role": "Sensei",
@@ -386,6 +406,10 @@
         }
       ],
       "intro": [
+        {
+          "role": "Audio",
+          "audio": "https://s3.amazonaws.com/samurai-audio/guruTransition.mp3"
+        },
         {
           "content": "Good work. To follow up traditional karate we do word board karate!",
           "role": "Sensei",
