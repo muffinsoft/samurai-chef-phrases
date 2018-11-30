@@ -3,20 +3,15 @@
     "0": {
       "outro": [
         {
-          "content": " Pretty good for a beginner!",
+          "content": "Pretty good for a beginner!",
           "role": "Ben",
           "audio": null
         }
       ],
       "intro": [
         {
-          "content": "Customers are arriving and they very hungry! Good time for you to learn by helping Sensei, yes? First, only rice and fish.",
+          "content": "Customers are arriving and they very hungry! Good time for you to learn by helping Sensei? First, only rice and fish.",
           "role": "Sensei",
-          "audio": null
-        },
-        {
-          "content": "We're ready!",
-          "role": "Ben",
           "audio": null
         },
         {
@@ -37,11 +32,6 @@
         {
           "content": "'slice!'",
           "role": "BenLoud",
-          "audio": null
-        },
-        {
-          "content": "Let's get started!",
-          "role": "Ben",
           "audio": null
         }
       ],
@@ -172,13 +162,8 @@
       ],
       "intro": [
         {
-          "content": "Now that lunch hour is over, I want to train your sense of taste! Vital to cooking! First, you taste soup, sushi and tea!",
+          "content": "Lunch hour over so now I train your sense of taste! Vital to cooking! First, you taste soup, sushi and tea!",
           "role": "Sensei",
-          "audio": null
-        },
-        {
-          "content": "Hope you're hungry, buddy!",
-          "role": "Ben",
           "audio": null
         },
         {
@@ -210,11 +195,6 @@
           "content": "'sip!'",
           "role": "BenLoud",
           "audio": null
-        },
-        {
-          "content": "Let's get started!",
-          "role": "Ben",
-          "audio": null
         }
       ],
       "shouldRunDemo": false,
@@ -235,13 +215,8 @@
       ],
       "intro": [
         {
-          "content": "The sooner you become sumo to represent my restaurant proudly, the better! So... eating time! First, only chicken and sushi!",
+          "content": "The sooner you become sumo to represent my restaurant proudly, the better! First, good protein!",
           "role": "Sensei",
-          "audio": null
-        },
-        {
-          "content": "Good protein to get nice and big!",
-          "role": "Ben",
           "audio": null
         },
         {
@@ -342,13 +317,8 @@
       ],
       "intro": [
         {
-          "content": "Time running short! I need you to become big sumo! For that, you must learn difference of good and bad food. Beef and tofu good! Soda, bad!",
+          "content": "Good sumo must learn difference between good and bad food. Beef and tofu, good! Soda, bad!",
           "role": "Sensei",
-          "audio": null
-        },
-        {
-          "content": "Soda is tasty but yeah, it's not very healthy.",
-          "role": "Ben",
           "audio": null
         },
         {
@@ -390,13 +360,8 @@
       ],
       "intro": [
         {
-          "content": "Customers from gym across the street arriving! We'll need lots of juice! First we make simple juice! Only milk and carrots!",
+          "content": "Customers from gym across the street arriving! We'll need lots of juice! First, only milk and carrots!",
           "role": "Sensei",
-          "audio": null
-        },
-        {
-          "content": "That's an interesting combination!",
-          "role": "Ben",
           "audio": null
         },
         {
@@ -487,17 +452,12 @@
       ],
       "intro": [
         {
-          "content": "Good guru also knows importance of exercise! Karate time! I expect only best from you in my dojo!",
+          "content": "Good guru also knows importance of exercise! Traditional karate time!",
           "role": "Sensei",
           "audio": null
         },
         {
-          "content": "Hope you're stretched and ready!",
-          "role": "Ben",
-          "audio": null
-        },
-        {
-          "content": "if sensei does a punch, say.",
+          "content": "If sensei does a punch, say.",
           "role": "Ben",
           "audio": null
         },
