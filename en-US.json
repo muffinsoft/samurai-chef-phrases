@@ -101,7 +101,7 @@
   ],
   "oneMistakeLeftCompetitionPhrase": [
     {
-      "content": "Ben wins round! One more and she will be the victor!",
+      "content": "Ben wins round! One more and he will be the victor!",
       "role": "Sensei"
     }
   ],
@@ -143,9 +143,9 @@
       "content": "Sorry, we can't understand your answer. Please, choose one from this list "
     }
   ],
-  "wantStartMissionPhrase": [
+  "missionSelectionPhrase": [
     {
-      "content": "Do you want to start a new path?"
+      "content": "Would you like to try a different path?"
     }
   ],
   "wantExitPhrase": [
@@ -168,9 +168,14 @@
       "content": "You'll be returned to game process."
     }
   ],
+  "readyToPlayPhrase": [
+    {
+      "content": "Ready to play?"
+    }
+  ],
   "wantResetProgressPhrase": [
     {
-      "content": "Do you want to reset your progress in this path and start it from the beginning?"
+      "content": "If you restart now, you’ll lose your progress on this mission. You can start this mission over, or start a new mission. Which would you like?"
     }
   ],
   "wantMissionFromBeginningPhrase": [
@@ -236,6 +241,31 @@
   "perfectMissionEarnHighPhrase": [
     {
       "content": "Impossible! A perfect Path of the Guru! You get the best title - The Enlightened Guru!"
+    }
+  ],
+  "gameOutroPhrase": [
+    {
+      "content": "I don't believe it! You have become the Ultimate Samurai Chef! It is an honor being your friend!",
+      "role": "Sensei",
+      "audio": null
+    },
+    {
+      "content": "You're amazing! Now that's an incredible nickname that's well earned! How do you feel about becoming the Ultimate Sushi Samurai?",
+      "role": "Ben",
+      "audio": null
+    },
+    {
+      "userResponse": true
+    },
+    {
+      "content": "It's been a pleasure teaching you. Perhaps there will be greater challenges someday for you to master!",
+      "role": "Sensei",
+      "audio": null
+    },
+    {
+      "content": "Thanks Sensei. Well, one thing you can do is reset your progress. Would you like to start Samurai Chef all over?",
+      "role": "Ben",
+      "audio": null
     }
   ]
 }
