@@ -147,26 +147,6 @@
           "content": "Hah! I won!",
           "role": "Alexa",
           "audio": null
-        },
-        {
-          "content": "",
-          "role": "",
-          "audio": null
-        },
-        {
-          "content": "",
-          "role": "",
-          "audio": null
-        },
-        {
-          "content": "",
-          "role": "",
-          "audio": null
-        },
-        {
-          "content": "",
-          "role": "",
-          "audio": null
         }
       ],
       "moveToPhaseTwo": "Uh oh, more customers are arriving, which means we've got to go faster! I'll just toss you the ingredient without saying the name and you prepare it based on the sound. Let's do this!"
